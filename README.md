@@ -169,19 +169,19 @@ G-Shop-Sales-Dashboard/
 
 ## Executive Dashboard
 
-![Executive Dashboard](Images/Dashboard1.png)
+![Executive Dashboard](images/pg1.png)
 
 ---
 
 ## Customer & Regional Analysis
 
-![Customer Analysis](Images/Dashboard2.png)
+![Customer Analysis](images/pg2.png)
 
 ---
 
 ## Product Performance Dashboard
 
-![Product Dashboard](Images/Dashboard3.png)
+![Product Dashboard](images/pg3.png)
 
 ---
 
