@@ -201,14 +201,4 @@ This Power BI dashboard provides a complete view of G Shop's sales performance t
 
 ---
 
-# 👨‍💻 Author
-
-**Your Name**
-
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
-- Email: your.email@example.com
-
----
-
 ## ⭐ If you found this project helpful, consider giving it a star!
